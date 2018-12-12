@@ -1,7 +1,7 @@
-# tiny
-A tiny function that removes all spaces from a string.
 
-@sagarprajapati/tiny
+# @sagarprajapati/tiny
+
+A tiny function that removes all spaces from a string.
 
 [![npm (scoped)](https://img.shields.io/npm/v/@sagarprajapati/tiny.svg)](https://www.npmjs.com/package/@sagarprajapati/tiny)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@sagarprajapati/tiny.svg)](https://www.npmjs.com/package/@sagarprajapati/tiny)
